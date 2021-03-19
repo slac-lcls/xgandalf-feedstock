@@ -1,0 +1,4 @@
+channel_sources:
+  - valmar,conda-forge,defaults
+channel_targets:
+  - valmar main
